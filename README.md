@@ -48,7 +48,7 @@
 ### 🌐 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/monirul-islam-soumik)
-- 🌍 [Portfolio]([https://your-portfolio-link.com](https://moniruls.netlify.app/)) <!-- Replace with your actual site -->
+- 🌍 [Portfolio](https://moniruls.netlify.app/) <!-- Replace with your actual site -->
 - 📧 Email: monirulislam49007@gmail.com
 
 ---
